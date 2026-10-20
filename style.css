@@ -214,9 +214,6 @@ nav {
             font-weight: 600;
         }
 
-
-        /* ========================= PROJECTS ========================= */
-
         #projects {
             background: #f7f8fc;
         }
@@ -266,9 +263,6 @@ nav {
             color: #6c4ab6;
             font-weight: bold;
         }
-
-
-        /* ========================= CONTACT ========================= */
 
         #contact {
             background: white;
@@ -329,9 +323,6 @@ nav {
             border-radius: 7px;
         }
 
-
-        /* ========================= FOOTER ========================= */
-
         footer {
             background: #202024;
             color: white;
@@ -347,9 +338,6 @@ nav {
             color: #d7c7ff;
             font-weight: bold;
         }
-
-
-        /* ========================= DARK MODE ========================= */
 
         body.dark-mode {
             background: #17171c;
@@ -397,9 +385,6 @@ nav {
         body.dark-mode .project-image {
             background: #302a3c;
         }
-
-
-        /* ========================= RESPONSIVE DESIGN ========================= */
 
         @media (max-width: 900px) {
 
